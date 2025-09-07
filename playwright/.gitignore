@@ -8,3 +8,7 @@ venv/
 
 # OS files
 .DS_Store
+
+#Test Results
+playwright/test-results
+playwright/report.html
